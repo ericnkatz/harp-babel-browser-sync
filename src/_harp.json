@@ -1,0 +1,8 @@
+{
+  "globals": {
+    "title": "Acme Site",
+    "meta" : {
+    	"description": "Acme Description"
+    }
+  }
+}

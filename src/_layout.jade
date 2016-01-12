@@ -4,9 +4,9 @@ html(lang="en")
 		meta(charset="utf-8")
 		meta(http-equiv="X-UA-Compatible" content="IE=edge")/
 		link(rel="stylesheet" href="css/style.css")
-		title= "Website Title"
+		title= title
 		meta(name="viewport" content="width=device-width, initial-scale=1")
-		meta(name="description" content="This is some meta description")
+		meta(name="description" content="#{meta.description}")
 		link(rel="stylesheet" href="css/style.css")
 	body
 		!= yield
