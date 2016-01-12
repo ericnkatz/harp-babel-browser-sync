@@ -4,7 +4,7 @@ Harp boilerplate with babeljs, webpack and browser-sync for ES6+ friendly develo
 
 *important*
 Webpack is used for bundling/managing .js files, Harp defaults handle all templating/styling. Update Gulpfile accordingly to adjust watchers/browser-sync settings.
-Based on [harp-babel](https://github.com/glued/harp-babel/)
+Based on the works of [harp-babel](https://github.com/glued/harp-babel/) and some Harp [Gulpfile](https://gist.github.com/superhighfives/b5dec8d56f1fde029f4a) [gists](https://gist.github.com/geelen/a5fcb013de67f680cb8d).
 
 ##setup
 
