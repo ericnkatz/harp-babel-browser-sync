@@ -1,0 +1,13 @@
+doctype
+html(lang="en")
+	head
+		meta(charset="utf-8")
+		meta(http-equiv="X-UA-Compatible" content="IE=edge")/
+		link(rel="stylesheet" href="css/style.css")
+		title= "Website Title"
+		meta(name="viewport" content="width=device-width, initial-scale=1")
+		meta(name="description" content="This is some meta description")
+		link(rel="stylesheet" href="css/style.css")
+	body
+		!= yield
+		script(src="build/script.js")
