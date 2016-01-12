@@ -15,7 +15,7 @@ www
 dist
 
 # BABELJS BUILDS
-public/build
+src/build
 
 www
 
